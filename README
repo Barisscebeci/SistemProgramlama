@@ -1,0 +1,12 @@
+Barış Cebeci
+
+
+Projemiz, "giris.dat" adındaki bir dosyanın içeriğini okuyarak belirli komutları işleyen bir programı içeriyor. Dosya içeriğinde "yaz:", "sil:", "sonagit:" ve "dur:" olmak üzere dört farklı komut bulunmaktadır.
+
+"yaz:" ifadesi, önünde bulunan harflerden sayı adedince yazdırma işlemini gerçekleştirir.
+"sil:" ifadesi, önünde bulunan harflerden sayı adedince silme işlemini gerçekleştirir.
+"sonagit:" ifadesi, satır sonuna kadar gitme işlemini gerçekleştirir.
+"dur:" ifadesi, programı durdurur ve o ana kadar yapılan tüm işlemleri "cikis.dat" dosyasına yazar.
+Projede kullanılması önerilen "libfdr" kütüphanesi, kodların yazıldığı "main.c" dosyası ve kodu derlemek için gerekli olan "makefile" dosyası bulunmaktadır.
+
+Örnek giriş ve çıkış dosyaları "doc" klasöründe bulunmaktadır.
